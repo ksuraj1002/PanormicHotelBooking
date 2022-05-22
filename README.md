@@ -3,7 +3,7 @@
 
 1.Language-Java, Framework-Spring Boot, H2 Database,
 2. Run this application as SpringBoot application.
-3. localhost:9090/booking,localhost:9090/cancel?bookingId=1,localhost:9090/details?bookingId=1
+3.API's- localhost:9090/booking,localhost:9090/cancel?bookingId=1,localhost:9090/details?bookingId=1
 
 Approach:
 
